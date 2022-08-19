@@ -1,0 +1,605 @@
+[
+    {
+        "name": "penny",
+        "type": "coin",
+        "facts": [
+            "Once it was hard to tell a penny from a dime... Although they are different colors, pennies and dimes are very close in size. In 1943, copper was needed for war materials, so pennies were made out of zinc-coated steel. Because the color was silvery, it was easy to mistake a penny for a dime. Fortunately, pennies were only made that way for one year.",
+            "You might have little round sandwiches in your pocket... Most of our coins are metal sandwiches. The outside layers are three-quarters copper and one-quarter nickel, and the \"filling\" is solid copper. Pennies are made of zinc coated with copper. Only nickels are one solid material—that same 75% copper/25% nickel alloy. Would you like fries with that?",
+            "This penny is almost as big as a half dollar... America's first one-cent piece, called the \"large cent,\" was first struck in 1793, one year after the Mint opened. It was so big that it was hard to use, but it wasn't replaced by a smaller penny until 1857, more than 50 years later.",
+            "George Washington was our first President – but not the first President on a circulating coin.... In 1909, President Lincoln appeared on a one-cent coin and became the first real person—as well as the first American president—to have his face appear on a regular-issue American coin.",
+            "We used to trade gold, silver, and copper.... A 1792 law directed American money to be made of gold, silver and copper. Gold was used in the $10, $5, and $2.50 pieces. The dollar, half dollar, quarter, dime, and half dime were composed of silver. The cent and half cent were made of copper.",
+            "How much was in that first batch?... The Mint produced its first circulating coins—all $111.78 worth of them—in March 1793. That first batch consisted of 11,178 copper cents. Soon after, the Mint began issuing gold and silver coins as well.",
+            "Which Revolutionary War hero also helped make coins?... Besides being quite the skilled horseman and informant, Paul Revere was a silversmith and a contributor to our nation's coinage. Revere's metals company once supplied the Mint with rolled copper for the production of early cents.",
+            "Heads, it’s Lincoln; tails, it’s Lincoln.... The Lincoln cent (1959 to 2007) featured this beloved president on both sides of the coin. On the obverse, we see his face in profile; on the reverse, he is seated in the Lincoln Memorial. However, the coin does carry the initials of two different engravers.",
+            "There were copper pennies and white cents?... Yes, there were \"white cents\" that didn't look at all like pennies. These were the Flying Eagle one cent coins of 1856–58 and the Indian Head one cent coins of 1859-64. They were made from metal that contained 88 parts copper to 12 parts nickel, which gave them a light or white color.",
+            "Honest, you’d be lucky to have a silly head! Here’s why... \"Silly Head\" is the popular name for a U.S. cent minted in 1839. The coin got this nickname because most people thought the picture of Miss Liberty on the obverse (front) looked silly."
+        ],
+        "appearance": {
+            "historicalFigure": "Abraham Lincoln",
+            "imageURL": {
+                "front": "https://www.usmint.gov/wordpress/wp-content/uploads/2022/02/2022-lincoln-penny-uncirculated-obverse-philadelphia-768x768.jpg",
+                "back": "https://www.usmint.gov/wordpress/wp-content/uploads/2022/01/2022-lincoln-penny-proof-reverse-768x768.jpg"
+            },
+            "composition": {
+                "label": "Copper Plated Zinc",
+                "materials": [
+                    {
+                        "name": "Copper",
+                        "percent": 2.5
+                    },
+                    {
+                        "name": "Zinc",
+                        "percent": 97.5
+                    }
+                ]
+            },
+            "diameter": {
+                "metric": 19.05,
+                "imperial": 0.75
+            },
+            "thickness": {
+                "metric": 1.52
+            },
+            "weight": {
+                "metric": 2.5
+            },
+            "edges": {
+                "type": "plain"
+            }
+        }
+    },
+    {
+        "name": "nickle",
+        "type": "coin",
+        "facts": [
+            "There was a nickelless nickel.... During World War II (1942 to 1945), the five-cent coin was made of an alloy of copper, manganese, and silver. Nickel was kept aside for use in the war effort.",
+            "The buffalo was once a newcomer.... When the bison appeared on the Buffalo nickel (1913 to 1938), it was the first animal on a circulating American coin that was not an eagle. This newcomer kept its status as the only non-eagle animal until the 50 State Quarters Program introduced more animals (and more buffalo) in 1999.",
+            "The nickel had a growth spurt.... The first five-cent pieces were small. Called \"half dimes,\" they weighed exactly half as much as a dime because their values were based on the amount of silver used to make them. The half dime's tiny size (about 16 mm) meant the coin was hard to handle and easy to lose. In 1865, Mint Director James Pollock thought that a five-cent coin made of nickel alloy would be a good trade for the five-cent paper notes that were circulating then. It turned out to be a good replacement for the half dime, too!",
+            "The Mint once made two different 5-cent coins.... The first 5-cent coin was made of silver. This very small \"half dime\" was minted until 1873, even though the nickel version was created in 1866. So, for several years, both kinds of 5-cent coins—of different metals, in different sizes, with different designs—were made and circulated—but only one was a nickel!",
+            "“Nickel” is a rascal.... The word \"nickel\" dates back to the 1750s in Sweden and Germany. One meaning of the German word \"nickel\" is \"rascal,\" so \"kupfernickel\" could be translated \"false copper.\" Miners invented this name because nickel ore looks like copper, a more valuable metal. Sometimes the miners thought they had found copper, but they were fooled by that rascally nickel.",
+            "One artist went from car design to coin design.... Of 390 artists who entered the contest to design a new nickel, the winner was Felix Schlag in 1938. Schlag was an auto stylist for General Motors.",
+            "An American explorer designed his own boat.... Captain Meriwether Lewis drew up the plans for the keelboat shown on the Keelboat nickel. The 55-foot keelboat was built in Pittsburgh, Pennsylvania. It could be sailed, rowed, poled like a raft, or towed from the riverbank.",
+            "The nickel’s name is unique.... It's the only U.S. coin that is called by its metal content—even though the metal alloy in a nickel is only 25 percent nickel. The rest is copper.",
+            "The nickel’s image was a likely likeness.... The portrait on nickels made before 2004 was based on a marble bust by the French sculptor Jean-Antoine Houdon. The sculpture was completed in 1789, while Jefferson was still alive, and is said to look just like him.",
+            "The President got the first Jefferson nickel.... The coin, issued on November 6, 1938, was presented to President Franklin D. Roosevelt."
+        ],
+        "appearance": {
+            "historicalFigure": "Thomas Jefferson",
+            "imageURL": {
+                "front": "https://www.usmint.gov/wordpress/wp-content/uploads/2022/02/2022-jefferson-nickel-uncirculated-obverse-philadelphia-768x768.jpg",
+                "back": "https://www.usmint.gov/wordpress/wp-content/uploads/2022/02/2022-jefferson-nickel-uncirculated-reverse-768x768.jpg"
+            },
+            "composition": {
+                "label": "Cupro-Nickel",
+                "materials": [
+                    {
+                        "name": "Nickel",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Copper",
+                        "percent": 75
+                    }
+                ]
+            },
+            "diameter": {
+                "metric": 21.21,
+                "imperial": 0.835
+            },
+            "thickness": {
+                "metric": 1.95
+            },
+            "weight": {
+                "metric": 5
+            },
+            "edges": {
+                "type": "plain"
+            }
+        }
+    },
+    {
+        "name": "dime",
+        "type": "coin",
+        "facts": [
+           "Once it was hard to tell a penny from a dime... Although they are different colors, pennies and dimes are very close in size. In 1943, copper was needed for war materials, so pennies were made out of zinc-coated steel. Because the color was silvery, it was easy to mistake a penny for a dime. Fortunately, pennies were only made that way for one year.",
+           "We used to trade gold, silver, and copper.... A 1792 law directed American money to be made of gold, silver and copper. Gold was used in the $10, $5, and $2.50 pieces. The dollar, half dollar, quarter, dime, and half dime were composed of silver. The cent and half cent were made of copper.",
+           "Groove-y edges made them harder to copy.... The dollar, half-dollar, quarter, and 10-cent (dime) denominations were originally produced from precious metals (gold and silver). The reeded edges were created to make sure no one would alter the coins and try to file off the edges to retrieve some of the precious metals.",
+           "Transporting coins can turn into a real cliffhanger.... Legend has it that a shipment of dimes en route to the San Francisco Mint was attacked in southern Utah in the early 1900s. The shipment of dimes supposedly fell over a cliff. Though many people have tried to find the money, no evidence of this shipment has ever been found.",
+           "Nickels, dimes, and quarters are pickled before they’re minted... It might sound strange, but the blanks used to make these coins really are pickled. They're not soaked in vinegar, though, like the pickled cucumbers you get on hamburgers. Instead, these copper-nickel blanks are soaked in a special chemical solution. This \"pickling\" washes and polishes the blanks."
+        ],
+        "appearance": {
+            "historicalFigure": "Franklin D. Roosevelt",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/d/dd/2017-D_Roosevelt_dime_obverse_transparent.png",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2017-D_Roosevelt_dime_reverse_transparent.png"
+            },
+            "composition": {
+                "label": "Cupro-Nickel",
+                "materials": [
+                    {
+                        "name": "Nickel",
+                        "percent": 8.33
+                    },
+                    {
+                        "name": "Copper",
+                        "percent": 91.67
+                    }
+                ]
+            },
+            "diameter": {
+                "metric": 17.91,
+                "imperial": 0.705
+            },
+            "thickness": {
+                "metric": 1.35
+            },
+            "weight": {
+                "metric": 2.268
+            },
+            "edges": {
+                "type": "reeded",
+                "numberOfReeds": 118
+            }
+        }
+    },
+    {
+        "name": "quarter",
+        "type": "coin",
+        "facts": [
+            "The buffalo was once a newcomer.... When the bison appeared on the Buffalo nickel (1913 to 1938), it was the first animal on a circulating American coin that was not an eagle. This newcomer kept its status as the only non-eagle animal until the 50 State Quarters Program introduced more animals (and more buffalo) in 1999.",
+            "The quarters are all lined up.... For 10 years starting in 1999, the United States Mint 50 State Quarters Program released a quarter design for each of the 50 states. Which state first? The states were honored in age order—oldest first—according to when they ratified the Constitution or joined the Union.",
+            "Heads, it’s Washington; tails, it’s Washington... The New Jersey quarter is not the first coin to have the same president (Washington) on both sides. Do you know the other coin and president? The answer is in another Fun Fact.",
+            "If you’re worth 25 cents, why not say so?... The quarter dollar made in 1804 was the first silver coin in the United States Mint's history to have a value on it! Yes, up until then, all silver and gold American coins were non-denominated. People had to know by their size how much they were worth. Only copper coins were required to show their denominations.",
+            "It was much too royal for George Washington’s taste.... President Washington, if here today, might be a bit surprised to find himself on the quarter. In considering designs for the first U.S. coins, he and Congress rejected designs picturing him. Why? Too much like monarchy, they said, the very thing from which the United States had rebelled. But in 1899, Washington's image was placed on a U.S. coin—the Lafayette dollar. In 1932, Washington appeared once again on a U.S. coin—the quarter—and still does today.",
+            "We used to trade gold, silver, and copper.... A 1792 law directed American money to be made of gold, silver and copper. Gold was used in the $10, $5, and $2.50 pieces. The dollar, half dollar, quarter, dime, and half dime were composed of silver. The cent and half cent were made of copper.",
+            "Groove-y edges made them harder to copy.... The dollar, half-dollar, quarter, and 10-cent (dime) denominations were originally produced from precious metals (gold and silver). The reeded edges were created to make sure no one would alter the coins and try to file off the edges to retrieve some of the precious metals.",
+            "Long before the 1999 quarter, there was another New Jersey coin... What was it? The \"New Jersey Cent.\" This copper coin was minted from 1786 to 1788—more than 200 years before the New Jersey quarter became the third coin in the 50 State Quarters Program.",
+            "Nickels, dimes, and quarters are pickled before they’re minted... It might sound strange, but the blanks used to make these coins really are pickled. They're not soaked in vinegar, though, like the pickled cucumbers you get on hamburgers. Instead, these copper-nickel blanks are soaked in a special chemical solution. This \"pickling\" washes and polishes the blanks."
+        ],
+        "appearance": {
+            "historicalFigure": "George Washington",
+            "imageURL": {
+                "front": "https://www.usmint.gov/wordpress/wp-content/uploads/2017/09/2018-america-the-beautiful-quarters-coin-uncirculated-obverse-philadelphia-768x768.jpg",
+                "back": "https://www.nicepng.com/png/full/146-1464848_quarter-tail-png-tails-on-a-coin.png"
+            },
+            "composition": {
+                "label": "Cupro-Nickel",
+                "materials": [
+                    {
+                        "name": "Nickel",
+                        "percent": 8.33
+                    },
+                    {
+                        "name": "Copper",
+                        "percent": 91.67
+                    }
+                ]
+            },
+            "diameter": {
+                "metric": 24.26,
+                "imperial": 0.955
+            },
+            "thickness": {
+                "metric": 1.75
+            },
+            "weight": {
+                "metric": 5.67
+            },
+            "edges": {
+                "type": "reeded",
+                "numberOfReeds": 119
+            }
+        }
+    },
+    {
+        "name": "half dollar",
+        "type": "coin",
+        "facts": [
+            "This penny is almost as big as a half dollar... America's first one-cent piece, called the \"large cent,\" was first struck in 1793, one year after the Mint opened. It was so big that it was hard to use, but it wasn't replaced by a smaller penny until 1857, more than 50 years later.",
+            "We used to trade gold, silver, and copper.... A 1792 law directed American money to be made of gold, silver and copper. Gold was used in the $10, $5, and $2.50 pieces. The dollar, half dollar, quarter, dime, and half dime were composed of silver. The cent and half cent were made of copper.",
+            "Groove-y edges made them harder to copy.... The dollar, half-dollar, quarter, and 10-cent (dime) denominations were originally produced from precious metals (gold and silver). The reeded edges were created to make sure no one would alter the coins and try to file off the edges to retrieve some of the precious metals.",
+            "What coin and monument both honor another “Washington”?... The first coin to feature an African-American was the Booker T. Washington Memorial Half Dollar. It was minted from 1946 to 1951. A National Monument was designated to Washington in Hardy, Virginia, on April 5, 1956.",
+            "One Commemorative Coin bears 5 dates... but not the date it was struck! The 1937 half-dollar struck to honor Norfolk, Virginia's founding, becoming a town, then a borough, has 1636, 1682, 1736, 1845, and 1936, but not 1937, the date the coin was made."
+        ],
+        "appearance": {
+            "historicalFigure": "John Fitzgerald Kennedy",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/0/07/US_Half_Dollar_Obverse_2015.png",
+                "back": "https://www.usmint.gov/wordpress/wp-content/uploads/2022/01/2022-kennedy-half-dollar-proof-reverse-768x768.jpg"
+            },
+            "composition": {
+                "label": "Cupro-Nickel",
+                "materials": [
+                    {
+                        "name": "Nickel",
+                        "percent": 8.33
+                    },
+                    {
+                        "name": "Copper",
+                        "percent": 91.67
+                    }
+                ]
+            },
+            "diameter": {
+                "metric": 30.61,
+                "imperial": 1.205
+            },
+            "thickness": {
+                "metric": 2.15
+            },
+            "weight": {
+                "metric": 11.34
+            },
+            "edges": {
+                "type": "reeded",
+                "numberOfReeds": 150
+            }
+        }
+    },
+    {
+        "name": "dollar",
+        "type": "coin",
+        "facts": [
+            "After 100 years, the Louisiana Purchase was set in gold.... To remember the Louisiana Purchase on its 100th anniversary, the Mint made not one but two gold dollar coins—the first commemorative gold dollars. The dollars were sold at the 1904 World's Fair in St. Louis, held in honor of the Purchase. One of the coins had a picture of President Jefferson on the front, who was in office during the Purchase. The other showed President McKinley, who signed the law that financed the fair just before he was assassinated in 1901.",
+            "Ben Franklin made lots of money…but whose?... The design for the Continental Dollar coin that came out during the Revolutionary War was based on a paper dollar designed by Benjamin Franklin. He also found a way to keep crooks from printing phony bills—but that's another Fun Fact.",
+            "So you think you know how much a Continental Dollar is worth?... The coins we call \"Continental Dollars\" are not marked as dollars. Since they were not all made of silver, we guess that the silver ones were worth a dollar, the brass ones worth one pence, and the pewter...who knows?",
+            "Two different dollars were both first... Was the first American dollar coin the Continental Dollar of 1776? In that year, we were still fighting a war for independence and had no national mint. The first dollar coin from the United States Mint was made in 1794, almost 20 years later.",
+            "It was much too royal for George Washington’s taste.... President Washington, if here today, might be a bit surprised to find himself on the quarter. In considering designs for the first U.S. coins, he and Congress rejected designs picturing him. Why? Too much like monarchy, they said, the very thing from which the United States had rebelled. But in 1899, Washington's image was placed on a U.S. coin—the Lafayette dollar. In 1932, Washington appeared once again on a U.S. coin—the quarter—and still does today.",
+            "We used to trade gold, silver, and copper.... A 1792 law directed American money to be made of gold, silver and copper. Gold was used in the $10, $5, and $2.50 pieces. The dollar, half dollar, quarter, dime, and half dime were composed of silver. The cent and half cent were made of copper.",
+            "Groove-y edges made them harder to copy.... The dollar, half-dollar, quarter, and 10-cent (dime) denominations were originally produced from precious metals (gold and silver). The reeded edges were created to make sure no one would alter the coins and try to file off the edges to retrieve some of the precious metals.",
+            "$10 billion goes a long way.... If you were lucky enough to have 10 billion Sacagawea golden dollars and you spent one every second of every day, guess how long they would last? In exactly 317 years, you would go broke!",
+            "Coins last a lot longer than bills.... The life expectancy of a circulating coin is 30 years, while paper money usually only lasts for 18 months. Now you see why using Golden dollars instead of dollar bills makes a lot of sense!",
+            "You can hold a Ferris wheel in the palm of your hand... How? It's easier than you might think. So is turning cartwheels with your fingers. Both \"Ferris wheel\" and \"cartwheel\" are nicknames for silver dollars!"
+        ],
+        "appearance": {
+            "historicalFigure": "Always Changing",
+            "imageURL":{
+                "front": "https://upload.wikimedia.org/wikipedia/en/f/fe/Sacagawea_dollar_obverse.png",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Presidential_dollar_coin_reverse.png/1017px-Presidential_dollar_coin_reverse.png"
+            },
+            "composition": {
+                "label": "Manganese-Brass",
+                "materials": [
+                    {
+                        "name": "Nickel",
+                        "percent": 2
+                    },
+                    {
+                        "name": "Mandanese",
+                        "percent": 3.5
+                    },
+                    {
+                        "name": "Zinc",
+                        "percent": 6
+                    },
+                    {
+                        "name": "Copper",
+                        "percent": 88.5
+                    }
+                ]
+            },
+            "diameter": {
+                "metric": 26.49,
+                "imperial": 1.043
+            },
+            "thickness": {
+                "metric": 2
+            },
+            "weight": {
+                "metric": 8.1
+            },
+            "edges": {
+                "type": "Edge Lettering"
+            }
+        }
+    },
+    {
+        "name": "one",
+        "type": "bill",
+        "facts": [
+            "$1 Federal Reserve notes feature the obverse and reverse of the Great Seal of the United States. The Seal dates to 1782. Its reverse side depicts the Eye of Providence and an unfinished pyramid symbolizing the nation’s strength and duration. The Seal’s obverse side shows an eagle bearing a shield and clutching both an olive branch and arrows in its talons.",
+            "The Treasury seal first appears on currency during the Civil War. The federal government issues the first $1 Legal Tender\" notes. These banknotes feature a portrait of Secretary of the Treasury Salmon P. Chase.\"",
+            "The 1869 series of United States notes features the first use of George Washington’s portrait.",
+            "$1 silver certificates feature Martha Washington in their 1886 and 1896 series.",
+            "In 1896 US released a series of silver certificates with neoclassical designs. They were referred to as the \"Educational Series\". The $1 note had allegorical figures of history instructing the youth. Two dollar notes had figures of science presenting the children, Steam and Electricity, to adults, Commerce and Manufacture."
+        ],
+        "appearance": {
+            "historicalFigure": "George Washington",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/2/23/US_one_dollar_bill%2C_obverse%2C_series_2009.jpg",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/9/96/US_one_dollar_bill%2C_reverse%2C_series_2009.jpg"
+            },
+            "composition": {
+                "label": "Federal Reserve Note Paper",
+                "materials": [
+                    {
+                        "name": "Linen",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Cotton",
+                        "percent": 75
+                    }
+                ]
+            },
+            "height": {
+                "metric": 66.3,
+                "imperial": 2.61
+            },
+            "width": {
+                "metric": 156.1,
+                "imperial": 6.14
+            },
+            "weight": {
+                "metric": 1
+            }
+        }
+    },
+    {
+        "name": "two",
+        "type": "bill",
+        "facts": [
+        "On the 233rd anniversary of Thomas Jefferson's birth, and to commemorate the bicentennial, the $2 Federal Reserve note is re-introduced featuring a new vignette: Trumbull's painting \"The Signing of the Declaration of Independence.\"",
+        "The first $2 notes are Continentals and are nine days older than America. On June 25, 1776, the Continental Congress authorizes issuance of the $2 denominations in “bills of credit” for the defense of America."
+        ],
+        "appearance": {
+            "historicalFigure": "Thomas Jefferson",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/US_%242_bill_obverse_series_2003_A.jpg/2880px-US_%242_bill_obverse_series_2003_A.jpg",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/US_%242_bill_reverse_series_2003_A.jpg/2880px-US_%242_bill_reverse_series_2003_A.jpg"
+            },
+            "composition": {
+                "label": "Federal Reserve Note Paper",
+                "materials": [
+                    {
+                        "name": "Linen",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Cotton",
+                        "percent": 75
+                    }
+                ]
+            },
+            "height": {
+                "metric": 66.3,
+                "imperial": 2.61
+            },
+            "width": {
+                "metric": 156.1,
+                "imperial": 6.14
+            },
+            "weight": {
+                "metric": 1
+            }
+        }
+    },
+    {
+        "name": "five",
+        "type": "bill",
+        "facts": [
+            "The new-design $5 note features subtle background colors of light purple and gray. The $5 note includes an embedded security thread that glows blue when illuminated by UV light. Two watermarks are featured in the $5 note, which are visible from both sides of the note when held to light. A vertical pattern of three numeral 5s is situated to the left of the portrait and a large numeral 5 is located in the blank space to the right of the portrait.",
+            "The United States officially adopts the dollar sign in 1785. The symbol evolves from the Spanish American figure for pesos. From colonial to modern times, the United States has issued several types of banknotes with unique purposes, like paying taxes, earning interest on an investment, or buying goods."
+        ],
+        "appearance": {
+            "historicalFigure": "Abraham Lincoln",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/US_%245_Series_2006_obverse.jpg/2880px-US_%245_Series_2006_obverse.jpg",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/US_%245_Series_2006_reverse.jpg/2880px-US_%245_Series_2006_reverse.jpg"
+            },
+            "composition": {
+                "label": "Federal Reserve Note Paper",
+                "materials": [
+                    {
+                        "name": "Linen",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Cotton",
+                        "percent": 75
+                    }
+                ]
+            },
+            "height": {
+                "metric": 66.3,
+                "imperial": 2.61
+            },
+            "width": {
+                "metric": 156.1,
+                "imperial": 6.14
+            },
+            "weight": {
+                "metric": 1
+            }
+        }
+    },
+    {
+        "name": "ten",
+        "type": "bill",
+        "facts": [
+            "The new-design $10 note features subtle background colors of orange, yellow, and red. The $10 note includes an embedded security thread that glows orange when illuminated by UV light. When held to light, a portrait watermark of Treasury Secretary Alexander Hamilton is visible from both sides of the note. In addition, the note includes a color-shifting numeral 10 in the lower right corner of the note.",
+            "The Federal Reserve Board, which is separate from the Treasury Department, issues $10 Federal Reserve notes featuring Andrew Jackson's portrait. These notes are physically larger than $10 bills currently in circulation.",
+            "BEP engraver Louis S. Schofield added an automobile in front of the Treasury building image on the back of the $10 notes issued between 1928 and 1996. The car was based on a number of different models and brands that were available in the 1920s.",
+            "The first $10 notes issued by the U.S. federal government are Demand Notes, featuring President Abraham Lincoln’s portrait, fine-line engraving, and intricate geometric lathe patterns. Each Demand Note was immediately redeemable in gold or silver “upon demand” at seven specific banks around the nation. The Treasury issued Demand Notes in 1861 and 1862.",
+            "Certain designs of Continental Currency feature illustrations inspired by the thirteen colonies fighting and defeating Great Britain in the American Revolution. These illustrations signify the colonies’ values and virtues."
+        ],
+        "appearance": {
+            "historicalFigure": "Alexander Hamilton",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/US10dollarbill-Series_2004A.jpg/2880px-US10dollarbill-Series_2004A.jpg",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/US_%2410_Series_2004_reverse.jpg/400px-US_%2410_Series_2004_reverse.jpg"
+            },
+            "composition": {
+                "label": "Federal Reserve Note Paper",
+                "materials": [
+                    {
+                        "name": "Linen",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Cotton",
+                        "percent": 75
+                    }
+                ]
+            },
+            "height": {
+                "metric": 66.3,
+                "imperial": 2.61
+            },
+            "width": {
+                "metric": 156.1,
+                "imperial": 6.14
+            },
+            "weight": {
+                "metric": 1
+            }
+        }
+    },
+    {
+        "name": "twenty",
+        "type": "bill",
+        "facts": [
+            "The new-design $20 note features subtle background colors of green and peach. The $20 note includes an embedded security thread that glows green when illuminated by UV light. When held to light, a portrait watermark of President Jackson is visible from both sides of the note. In addition, the note includes a color-shifting numeral 20 in the lower right corner of the note.",
+            "The Bureau of Engraving and Printing begins engraving and printing the faces and seals of U.S. banknotes. Before this, U.S. banknotes were produced by private banknote companies and then sent to the Bureau of Engraving and Printing for sealing, trimming, and cutting."
+        ],
+        "appearance": {
+            "historicalFigure": "Andrew Jackson",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/US_%2420_Series_2006_Obverse.jpg/2880px-US_%2420_Series_2006_Obverse.jpg",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/US_%2420_Series_2006_Reverse.jpg/2880px-US_%2420_Series_2006_Reverse.jpg"
+            },
+            "composition": {
+                "label": "Federal Reserve Note Paper",
+                "materials": [
+                    {
+                        "name": "Linen",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Cotton",
+                        "percent": 75
+                    }
+                ]
+            },
+            "height": {
+                "metric": 66.3,
+                "imperial": 2.61
+            },
+            "width": {
+                "metric": 156.1,
+                "imperial": 6.14
+            },
+            "weight": {
+                "metric": 1
+            }
+        }
+    },
+    {
+        "name": "fifty",
+        "type": "bill",
+        "facts": [
+            "The currency redesigns continue with the $50 note, which features subtle background colors of blue and red. The $50 note includes an embedded security thread that glows yellow when illuminated by UV light. When held to light, a portrait watermark of President Grant is visible from both sides of the note. In addition, the note includes a color-shifting numeral 50 in the lower right corner of the note.",
+            "American money has depicted Liberty and Justice as allergorical figures. On interest-bearing notes of 1863, Justice can be seen holding her scales. She appears on the right side of a $50 bill from 1880 holding a sword and shield."
+        ],
+        "appearance": {
+            "historicalFigure": "Ulysses S. Grant",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/0/09/50_USD_Series_2004_Note_Front.jpg",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/50_USD_Series_2004_Note_Back.jpg/2880px-50_USD_Series_2004_Note_Back.jpg"
+            },
+            "composition": {
+                "label": "Federal Reserve Note Paper",
+                "materials": [
+                    {
+                        "name": "Linen",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Cotton",
+                        "percent": 75
+                    }
+                ]
+            },
+            "height": {
+                "metric": 66.3,
+                "imperial": 2.61
+            },
+            "width": {
+                "metric": 156.1,
+                "imperial": 6.14
+            },
+            "weight": {
+                "metric": 1
+            }
+        }
+    },
+    {
+        "name": "hundred",
+        "type": "bill",
+        "facts": [
+            "In its first redesign since 1996, the new-design $100 note features additional security features including a 3-D Security Ribbon and color-shifting Bell in the Inkwell. The new-design $100 note also includes a portrait watermark of Benjamin Franklin that is visible from both sides of the note when held to light.",
+            "In the first significant design change since the 1920s, U.S. currency is redesigned to incorporate a series of new counterfeit deterrents. Issuance of the new banknotes begins with the $100 note in 1996, followed by the $50 note in 1997, the $20 note in 1998, and the $10 and $5 notes in 2000.",
+            "The first $100 and $500 national bank notes feature John Trumbull’s paintings “Declaration of Independence” and “Surrender of General Burgoyne.” Both paintings now hang in the U.S. Capitol Building."
+        ],
+        "appearance": {
+            "historicalFigure": "Benjamin Franklin",
+            "imageURL": {
+                "front": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Obverse_of_the_series_2009_%24100_Federal_Reserve_Note.jpg",
+                "back": "https://upload.wikimedia.org/wikipedia/commons/b/b7/New100back.jpg"
+            },
+            "composition": {
+                "label": "Federal Reserve Note Paper",
+                "materials": [
+                    {
+                        "name": "Linen",
+                        "percent": 25
+                    },
+                    {
+                        "name": "Cotton",
+                        "percent": 75
+                    }
+                ]
+            },
+            "height": {
+                "metric": 66.3,
+                "imperial": 2.61
+            },
+            "width": {
+                "metric": 156.1,
+                "imperial": 6.14
+            },
+            "weight": {
+                "metric": 1
+            }
+        }
+    },
+    {
+        "name": "other",
+        "type": "none",
+        "facts": [
+            "The Federal Reserve Board issues $1,000 notes featuring Alexander Hamilton’s portrait. This bill is discontinued in 1969.",
+            "In 1918, the Federal Reserve Board begins issuing currency in $500, $1,000, $5,000, and $10,000 denominations.",
+            "The Federal Reserve Board issues $10,000 notes featuring Salmon P. Chase’s portrait. This note is intended for bank-to-bank large value transfers, not public circulation.",
+            "The United States adds unique serial numbers to banknotes.",
+            "The appearance of U.S. banknotes changes greatly in 1929. In an effort to lower manufacturing costs, all Federal Reserve notes are made about 30 percent smaller—measuring 6.14 x 2.61 inches, rather than 7.375 x 3.125 inches. In addition, standardized designs are instituted for each denomination, decreasing the number of designs in circulation and making it easier for the public to distinguish between genuine and counterfeit notes.",
+            "The Treasurer of the United States issues $100,000 gold certificates to Federal Reserve Banks to settle large value transactions. The gold certificate features Woodrow Wilson and do not circulate amongst the public.",
+            "The BEP prints Silver Certificates and Federal Reserve notes bearing a “Hawaii” overprint. These items only circulate in Hawaii, and their brown seals and serial numbers differentiate from other certificates. They are easily identifiable and can be declared valueless if Hawaii is overran by enemy forces.",
+            "The BEP prints Allied Military Currency for the use by Allied invasion forces in Italy. AMC helped prevent inflation after an Allied forces landed in Sicily. Soldiers used similar AMC in Austria, Germany, France and Japan.",
+            "The Federal Reserve Board issues $500 bills that feature President William McKinley’s portrait. These circulate for roughly two decades and remains legal tender.",
+            "Following a 1955 law requiring “In God We Trust” on all currency, the motto first appears on banknotes on series 1957 $1 silver certificates, then on 1963 series Federal Reserve notes.",
+            "Automated teller machines (ATM) first appear in New York City. They allow bank customers to retrieve cash from their accounts without needing to visit the bank.",
+            "On July 14, 1969, the Federal Reserve and the U.S. Department of the Treasury announced that banknotes in denominations of $500, $1,000, $5,000, and $10,000 would be discontinued due to lack of use. Although they were issued until 1969, they were last printed in 1945.",
+            "In order to finance the Civil War, Congress authorizes the U.S. Department of the Treasury to issue non-interest-bearing Demand Notes. These notes earn the nickname “greenbacks” because of the green ink on the back. All U.S. currency issued since 1861 remains valid and redeemable at full face value.",
+            "After the Treasury issued Demand Notes, Congress authorizes a new class of currency known as “United States notes” or “Legal Tender notes.” These notes replace Demand Notes. They continue to circulate until 1971. Similar to Demand Notes, they are nicknamed \"greenbacks.\"",
+            "By 1862, the Demand Notes incorporate fine-line engraving, intricate geometric lathe work patterns, a U.S. Department of the Treasury seal, and engraved signatures to aid in counterfeit deterrence. To this day, U.S. currency continues to add features to deter counterfeiting.",
+            "The Treasury seal first appears on currency during the Civil War. While the color and style of the seal changes over the years, the internal seal remains essentially the same to modern day with a key, scales, and stars.",
+            "Congress creates the Office of the Comptroller of the Currency (OCC) and National Currency Bureau to handle the newly created National Bank Notes.",
+            "Congress establishes a national banking system and authorizes the U.S. Department of the Treasury to oversee the issuance of National Banknotes. This system sets Federal guidelines for chartering and regulating \"national\" banks and authorizes those banks to issue national currency secured by the purchase of United States bonds.",
+            "The United States Secret Service is established to deter counterfeiters, whose activities diminish the public’s confidence in the nation's currency.",
+            "Congressional legislation recognizes the U.S. Department of the Treasury’s Bureau of Engraving and Printing (BEP) with specific allocation of operating funds for fiscal year 1875.",
+            "Congress mandates that the U.S. Department of the Treasury solely performs the engraving and printing of notes, bonds, and other securities of the United States.",
+            "The U.S. Department of the Treasury issues silver certificates. Legislation directing an increase in the purchase and coinage of silver authorizes the creation of the certificates.",
+            "Alexander Hamilton establishes the Bank of the United States to create a system of credit for the government. The bank is the first of several in the country to issue private currencies facilitating borrowing and lending."
+        ]
+    }
+]
