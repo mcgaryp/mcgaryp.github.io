@@ -25,23 +25,23 @@
                 "materials": [
                     {
                         "name": "Copper",
-                        "percent": 250
+                        "percent": 2.5
                     },
                     {
                         "name": "Zinc",
-                        "percent": 9750
+                        "percent": 97.5
                     }
                 ]
             },
             "diameter": {
-                "metric": 1905,
-                "imperial": 75
+                "metric": 19.05,
+                "imperial": 0.75
             },
             "thickness": {
-                "metric": 152
+                "metric": 1.52
             },
             "weight": {
-                "metric": 250
+                "metric": 2.5
             },
             "edges": {
                 "type": "plain"
@@ -74,23 +74,23 @@
                 "materials": [
                     {
                         "name": "Nickel",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Copper",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "diameter": {
-                "metric": 2121,
-                "imperial": 83
+                "metric": 21.21,
+                "imperial": 0.835
             },
             "thickness": {
-                "metric": 195
+                "metric": 1.95
             },
             "weight": {
-                "metric": 500
+                "metric": 5
             },
             "edges": {
                 "type": "plain"
@@ -118,23 +118,23 @@
                 "materials": [
                     {
                         "name": "Nickel",
-                        "percent": 833
+                        "percent": 8.33
                     },
                     {
                         "name": "Copper",
-                        "percent": 9167
+                        "percent": 91.67
                     }
                 ]
             },
             "diameter": {
-                "metric": 1791,
-                "imperial": 70
+                "metric": 17.91,
+                "imperial": 0.705
             },
             "thickness": {
-                "metric": 135
+                "metric": 1.35
             },
             "weight": {
-                "metric": 226
+                "metric": 2.268
             },
             "edges": {
                 "type": "reeded",
@@ -167,23 +167,23 @@
                 "materials": [
                     {
                         "name": "Nickel",
-                        "percent": 833
+                        "percent": 8.33
                     },
                     {
                         "name": "Copper",
-                        "percent": 9167
+                        "percent": 91.67
                     }
                 ]
             },
             "diameter": {
-                "metric": 2426,
-                "imperial": 95
+                "metric": 24.26,
+                "imperial": 0.955
             },
             "thickness": {
-                "metric": 175
+                "metric": 1.75
             },
             "weight": {
-                "metric": 567
+                "metric": 5.67
             },
             "edges": {
                 "type": "reeded",
@@ -212,23 +212,23 @@
                 "materials": [
                     {
                         "name": "Nickel",
-                        "percent": 833
+                        "percent": 8.33
                     },
                     {
                         "name": "Copper",
-                        "percent": 9167
+                        "percent": 91.67
                     }
                 ]
             },
             "diameter": {
-                "metric": 3061,
-                "imperial": 120
+                "metric": 30.61,
+                "imperial": 1.205
             },
             "thickness": {
-                "metric": 215
+                "metric": 2.15
             },
             "weight": {
-                "metric": 1134
+                "metric": 11.34
             },
             "edges": {
                 "type": "reeded",
@@ -262,31 +262,31 @@
                 "materials": [
                     {
                         "name": "Nickel",
-                        "percent": 200
+                        "percent": 2
                     },
                     {
                         "name": "Mandanese",
-                        "percent": 350
+                        "percent": 3.5
                     },
                     {
                         "name": "Zinc",
-                        "percent": 600
+                        "percent": 6
                     },
                     {
                         "name": "Copper",
-                        "percent": 8850
+                        "percent": 88.5
                     }
                 ]
             },
             "diameter": {
-                "metric": 2649,
-                "imperial": 104
+                "metric": 26.49,
+                "imperial": 1.043
             },
             "thickness": {
-                "metric": 200
+                "metric": 2
             },
             "weight": {
-                "metric": 810
+                "metric": 8.1
             },
             "edges": {
                 "type": "Edge Lettering"
@@ -314,24 +314,24 @@
                 "materials": [
                     {
                         "name": "Linen",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Cotton",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "height": {
-                "metric": 6630,
-                "imperial": 261
+                "metric": 66.3,
+                "imperial": 2.61
             },
             "width": {
-                "metric": 15610,
-                "imperial": 614
+                "metric": 156.1,
+                "imperial": 6.14
             },
             "weight": {
-                "metric": 100
+                "metric": 1
             }
         }
     },
@@ -353,24 +353,24 @@
                 "materials": [
                     {
                         "name": "Linen",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Cotton",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "height": {
-                "metric": 6630,
-                "imperial": 261
+                "metric": 66.3,
+                "imperial": 2.61
             },
             "width": {
-                "metric": 15610,
-                "imperial": 614
+                "metric": 156.1,
+                "imperial": 6.14
             },
             "weight": {
-                "metric": 100
+                "metric": 1
             }
         }
     },
@@ -392,24 +392,24 @@
                 "materials": [
                     {
                         "name": "Linen",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Cotton",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "height": {
-                "metric": 6630,
-                "imperial": 261
+                "metric": 66.3,
+                "imperial": 2.61
             },
             "width": {
-                "metric": 15610,
-                "imperial": 614
+                "metric": 156.1,
+                "imperial": 6.14
             },
             "weight": {
-                "metric": 100
+                "metric": 1
             }
         }
     },
@@ -434,24 +434,24 @@
                 "materials": [
                     {
                         "name": "Linen",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Cotton",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "height": {
-                "metric": 6630,
-                "imperial": 261
+                "metric": 66.3,
+                "imperial": 2.61
             },
             "width": {
-                "metric": 15610,
-                "imperial": 614
+                "metric": 156.1,
+                "imperial": 6.14
             },
             "weight": {
-                "metric": 100
+                "metric": 1
             }
         }
     },
@@ -473,24 +473,24 @@
                 "materials": [
                     {
                         "name": "Linen",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Cotton",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "height": {
-                "metric": 6630,
-                "imperial": 261
+                "metric": 66.3,
+                "imperial": 2.61
             },
             "width": {
-                "metric": 15610,
-                "imperial": 614
+                "metric": 156.1,
+                "imperial": 6.14
             },
             "weight": {
-                "metric": 100
+                "metric": 1
             }
         }
     },
@@ -512,24 +512,24 @@
                 "materials": [
                     {
                         "name": "Linen",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Cotton",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "height": {
-                "metric": 6630,
-                "imperial": 261
+                "metric": 66.3,
+                "imperial": 2.61
             },
             "width": {
-                "metric": 15610,
-                "imperial": 614
+                "metric": 156.1,
+                "imperial": 6.14
             },
             "weight": {
-                "metric": 100
+                "metric": 1
             }
         }
     },
@@ -552,24 +552,24 @@
                 "materials": [
                     {
                         "name": "Linen",
-                        "percent": 2500
+                        "percent": 25
                     },
                     {
                         "name": "Cotton",
-                        "percent": 7500
+                        "percent": 75
                     }
                 ]
             },
             "height": {
-                "metric": 6630,
-                "imperial": 261
+                "metric": 66.3,
+                "imperial": 2.61
             },
             "width": {
-                "metric": 15610,
-                "imperial": 614
+                "metric": 156.1,
+                "imperial": 6.14
             },
             "weight": {
-                "metric": 100
+                "metric": 1
             }
         }
     },
